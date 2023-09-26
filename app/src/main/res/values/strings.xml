@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">7 Days of Self Care</string>
+    <string name="tip1">Meditate for at least 5 minutes</string>
+    <string name="tip2">Go for a 30 minute walk</string>
+    <string name="tip3">Write in a journal</string>
+    <string name="tip4">Read</string>
+    <string name="tip5">Call a friend just to chat</string>
+    <string name="tip6">Remind yourself what you\'re grateful for</string>
+    <string name="tip7">Call a friend just to chat</string>
+    <string name="description1">Meditation, even in small doses, has tremendous health benefits. Find a nice quiet place and take some time to check in with yourself.</string>
+    <string name="description2">Stretch those legs! Go alone, or with a friend. Sustained physical exercise is important to a balanced life.</string>
+    <string name="description3">Doesn\'t matter what you write about, just write! Empty your brain and let that mental load go.</string>
+    <string name="description4">Get lost in a good book. You never know how far a great story can take you!</string>
+    <string name="description5">Check in with a good friend. See how they\'re doing. Shoot the breeze! We are social creatures after all.</string>
+    <string name="description6">Gratitude journaling is a great way to do this. Just write out the things that you are grateful for in your life as they come to mind.</string>
+    <string name="description7">Gratitude journaling is a great way to do this. Just write out the things that you are grateful for in your life as they come to mind.</string>
+    <string name="day1">Day 1</string>
+    <string name="day2">Day 2</string>
+    <string name="day3">Day 3</string>
+    <string name="day4">Day 4</string>
+    <string name="day5">Day 5</string>
+    <string name="day6">Day 6</string>
+    <string name="day7">Day 7</string>
+</resources>
